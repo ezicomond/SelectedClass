@@ -1,0 +1,5 @@
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\bin\SelectedClass.dll.config
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\bin\SelectedClass.dll
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\bin\SelectedClass.pdb
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\obj\Release\SelectedClass.dll
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\obj\Release\SelectedClass.pdb

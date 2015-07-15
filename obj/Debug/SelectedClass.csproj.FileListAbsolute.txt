@@ -1,0 +1,6 @@
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\bin\SelectedClass.dll.config
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\bin\SelectedClass.dll
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\bin\SelectedClass.pdb
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\obj\Debug\SelectedClass.csprojResolveAssemblyReference.cache
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\obj\Debug\SelectedClass.dll
+D:\C# Projects\Web Projects\SelectedClass\SelectedClass\obj\Debug\SelectedClass.pdb
